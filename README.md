@@ -52,7 +52,7 @@ It specifically watches for changes to the following file types:
 ![Before Changes](assets/before_changes.png)
 
 **2. Hot-Reload in Action (Changes Detected):**
-![Changes Detected](assets/changes_in_server.png)
+![Changes Detected](assets/changes_in_Server.png)
 
 **3. Server Restarted (After Changes):**
 ![After Changes](assets/after_changes.png)
